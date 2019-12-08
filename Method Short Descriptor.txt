@@ -1,0 +1,8 @@
+Boyden chamber transwell and realtime scratch wound migration/matrigel invasion assay 
+Cell invasion was measured by matrigel Boyden chamber assay (Costar, city, state) (Boyden 1962). 
+Cells were pretreated with 10uM 27HC in complete media for twenty-four hrs. followed by 24 hrs.of serum starvation with DMSO or 10uM 27HC in base media. 
+2x105 DU145 cells were then plated on Boyden chamber inserts that were pre-coated with 100 ul of 200ug/ml Matrigel, 
+the lower compartment of the Boyden chamber is then filled with 500ul of complete media and serves as the chemoattractant. 
+After twelve hrs. of incubation inside 37oC 5% CO2 incubator, cells were fixed with 4% PFA in PBS, 
+stained with 0.01% Crystal violet and imaged with Keyence microscope model BZ-X700. 
+Digital images were analyzed with custom cell counting routines using Matlab R2016.
